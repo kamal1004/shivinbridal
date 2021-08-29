@@ -65,7 +65,9 @@ padding-top:3%;
 .download-button{
     align-items: center;
      margin: 5% 3% 5% 35%;
-    color:#8E304C; 
+    color:#8E304C;
+    border-color:#8E304C;
+    border: 1px solid;
 }
 
 .pl{
@@ -94,6 +96,9 @@ padding-top:3%;
   color: #8E304C;
     
 }
+.card-body{
+    text-align: center;
+}
 
 .forms{
     text-align: center;
@@ -106,15 +111,26 @@ padding-top:3%;
     align-items: center;
     color:#8E304C; 
     margin-bottom: 5%;
+    border-color:#8E304C;
+    border: 1px solid;
 }
 
-.page-footer {
+.f1 {
   background-color:#8E304C;
 }
 .text-center{
     color: white;
 }
+.bgimg{
+    text-align: center;
+
+}
 
 .btn-floating{
     background-color: azure;
+}
+
+.fab{
+    
+    color: aliceblue;
 }
